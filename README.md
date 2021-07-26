@@ -1,3 +1,22 @@
+# ⚠️⚠️⚠️ This repo just fork [react-native-svg-app-icon](https://github.com/aeirola/react-native-svg-app-icon) and remove icon shadow.
+
+## Installation
+
+```bash
+yarn add -D react-native-svg-app-icon-without-shadow
+```
+
+## Usage
+
+Place your square 108x108 SVG app icon file named `icon.svg` in the project root and run
+
+```bash
+npx react-native-svg-app-icon-without-shadow
+```
+
+
+----
+
 # react-native-svg-app-icon
 
 <p align="center">

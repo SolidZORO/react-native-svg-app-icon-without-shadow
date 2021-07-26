@@ -60,8 +60,8 @@ const legacyLightningFilter = `
     />
 
     <feMerge>
-      <feMergeNode in="shadow" />
-      <feMergeNode in="edge" />
+<!--      <feMergeNode in="shadow" />-->
+<!--      <feMergeNode in="edge" />-->
     </feMerge>
   </filter>`;
 
